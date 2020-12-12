@@ -1,2 +1,1 @@
-# Smart-Bottle
-Hi, I'm the bottle of the future
+# Hi 👋, I'm the bottle of the future
